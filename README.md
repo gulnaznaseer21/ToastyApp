@@ -22,5 +22,5 @@ SimpleToastApp
 > 
 > {
 > 
-	        implementation 'com.github.gulnaznaseer21:ToastyApp:Tag'
+	        implementation 'com.github.gulnaznaseer21:ToastyApp:1.0.0'
 	}
