@@ -1,0 +1,15 @@
+jdk:
+  - openjdk18
+    afterEvaluate{
+    publishing{
+    publications{
+    release(MavenPublication){
+    from components.release
+    
+    groupId='com.github.gulnaznaseer21'
+    artifactId = 'toast'
+    version = '1.0'
+    }
+    }
+    }
+    }
